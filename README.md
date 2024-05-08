@@ -5,5 +5,7 @@
   <img alt="github-snake" src="https://github.com/tahitimoon/tahitimoon/blob/output/github-contribution-grid-snake.svg">
 </picture>
 <h2>🤔 Summary</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahitimoon)](https://github.com/anuraghazra/github-readme-stats)
-
+<p style="display: flex;align-items: center;">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tahitimoon&show_icons=true&theme=radical" alt="devSouvik's Github Stats">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahitimoon&layout=compact&text_color=daf7dc&bg_color=151515&exclude_repo=tahitimoon.github.io" >
+</p>
