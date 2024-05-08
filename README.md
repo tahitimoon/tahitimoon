@@ -5,4 +5,4 @@
   <img alt="github-snake" src="https://github.com/tahitimoon/tahitimoon/blob/output/github-contribution-grid-snake.svg">
 </picture>
 <h2>🤔 Summary</h3>
-![geekbing's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![geekbing's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahitimoon&show_icons=true&theme=radical)
